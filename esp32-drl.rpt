@@ -1,0 +1,69 @@
+Drill report for multilayer1.kicad_pcb
+Created on 2024-07-05T15:21:14+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  gnd                       in1
+    L3 :  power                     in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'multilayer1-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.100mm  0.0039"  (25 holes)
+    T2  0.300mm  0.0118"  (9 holes)
+    T3  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T4  1.000mm  0.0394"  (52 holes)
+    T5  2.000mm  0.0787"  (4 holes)
+
+    Total plated holes count 94
+
+
+Drill file 'multilayer1-front-in1.drl' contains
+    holes connecting layer pair: 'F.Cu and gnd' (blind vias):
+    =============================================================
+    T1  0.100mm  0.0039"  (80 holes)
+
+    Total plated holes count 80
+
+
+Drill file 'multilayer1-front-in2.drl' contains
+    holes connecting layer pair: 'F.Cu and power' (blind vias):
+    =============================================================
+    T1  0.100mm  0.0039"  (22 holes)
+
+    Total plated holes count 22
+
+
+Drill file 'multilayer1-in1-in2.drl' contains
+    holes connecting layer pair: 'gnd and power' (buried vias):
+    =============================================================
+    T1  0.100mm  0.0039"  (13 holes)
+
+    Total plated holes count 13
+
+
+Drill file 'multilayer1-in1-back.drl' contains
+    holes connecting layer pair: 'gnd and B.Cu' (blind vias):
+    =============================================================
+    T1  0.100mm  0.0039"  (2 holes)
+
+    Total plated holes count 2
+
+
+Drill file 'multilayer1-in2-back.drl' contains
+    holes connecting layer pair: 'power and B.Cu' (blind vias):
+    =============================================================
+    T1  0.100mm  0.0039"  (7 holes)
+
+    Total plated holes count 7
+
+
+Drill file 'multilayer1-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+
+    Total unplated holes count 2

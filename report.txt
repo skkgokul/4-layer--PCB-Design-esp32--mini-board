@@ -1,0 +1,13 @@
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-F_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-gnd.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-power.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-B_Cu.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-F_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-B_Paste.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-F_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-B_Mask.gbr'.
+Plotted to 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\gokul\OneDrive\Desktop\bcp\kicad\esp32\esp32\multilayer1-job.gbrjob'.
+Info: Done.

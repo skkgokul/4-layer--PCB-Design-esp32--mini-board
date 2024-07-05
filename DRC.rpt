@@ -1,0 +1,17 @@
+** Drc report for multilayer1.kicad_pcb **
+** Created on 2024-07-05T15:19:09+0530 **
+
+** Found 2 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(168.3470 mm, 95.4825 mm): Reference 'C4'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(170.1037 mm, 91.4610 mm): Segment on F.Silkscreen
+    @(170.7935 mm, 92.1300 mm): Reference 'C5'
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
